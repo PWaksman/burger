@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="pwaksman.builder.OrderBuilderTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-07-18T17:17:07" hostname="SWORN" time="0.039">
+  <properties/>
+  <testcase name="should fail when building an empty order" classname="pwaksman.builder.OrderBuilderTest" time="0.017"/>
+  <testcase name="should create order" classname="pwaksman.builder.OrderBuilderTest" time="0.022"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
