@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="pwaksman.builder.BurgerToppingBuilderTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-07-18T17:17:06" hostname="SWORN" time="0.174">
-  <properties/>
-  <testcase name="should throw invalid topping count" classname="pwaksman.builder.BurgerToppingBuilderTest" time="0.098"/>
-  <testcase name="should build the burger" classname="pwaksman.builder.BurgerToppingBuilderTest" time="0.075"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
